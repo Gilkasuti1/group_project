@@ -1,0 +1,16 @@
+no
+[2025-11-10 08:35:21] records_2025-11-10.txt created successfully.
+[2025-11-10 08:35:22] records_2025-11-10.txt created and archived successfully.
+[2025-11-10 09:30:55] records_2025-11-10.txt created successfully.
+[2025-11-10 09:30:55] ERROR: Failed to move backup 'C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\backup_records_2025-11-10.txt' to archive 'C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\Archive': Destination path 'C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\Archive\backup_records_2025-11-10.txt' already exists
+[2025-11-10 09:36:45] records_2025-11-10.txt created successfully.
+[2025-11-10 09:36:45] ERROR: Backup error for C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\records_2025-11-10.txt: Destination path 'C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\Archive\backup_records_2025-11-10.txt' already exists
+[2025-11-10 09:37:16] ERROR: Attempted to delete missing file: studentfiles
+[2025-11-10 09:37:39] records_2025-11-10.txt created successfully.
+[2025-11-10 09:37:39] ERROR: Backup error for C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\records_2025-11-10.txt: Destination path 'C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\Archive\backup_records_2025-11-10.txt' already exists
+[2025-11-10 09:40:44] records_2025-11-10.txt created successfully.
+[2025-11-10 09:40:44] ERROR: Failed to move backup 'C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\backup_records_2025-11-10.txt' to 'C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\Archive': Destination path 'C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\Archive\backup_records_2025-11-10.txt' already exists
+[2025-11-10 09:43:37] records_2025-11-10.txt created successfully.
+[2025-11-10 09:43:38] records_2025-11-10.txt created and archived successfully.
+[2025-11-10 09:44:04] records_2025-11-10.txt created successfully.
+[2025-11-10 09:44:04] ERROR: Failed to move backup 'C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\backup_records_2025-11-10.txt' to 'C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\Archive': Destination path 'C:\Users\innocent kasuti\OneDrive\Desktop\inte 472 project\StudentFiles\Archive\backup_records_2025-11-10.txt' already exists
