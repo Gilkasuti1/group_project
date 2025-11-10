@@ -1,7 +1,7 @@
 # Python File Management and Data Processing Utility
 
 ## Overview
-This repository contains two Python scripts for the INTE 472 group project:
+This repository contains two Python scripts for the  group project:
 
 - `file_manager.py` — implements Tasks 1–6:
   - Creates `StudentFiles` folder (if missing).
